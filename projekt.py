@@ -77,5 +77,5 @@ ukloni_gumb.pack(pady=5)
 zavrsi_gumb = ttk.Button(root, text="Završi zadatak", command=zavrsi_zadatak)
 zavrsi_gumb.pack(pady=5)
 
-# Pokretanje petlje događaja glavnog prozora
+# Pokretanje petlje glavnog prozora
 root.mainloop()
